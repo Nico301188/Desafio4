@@ -1,0 +1,95 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: white;
+  background-color: #bc105c;
+  text-align: center;
+  margin-left: 3.5rem;
+  margin-right: 3.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 0.25rem;
+}
+
+p {
+  display: block;
+  font-size: 1.5rem;
+  /* padding:3rem 0; */
+}
+
+h2 {
+  font-size: 2.5rem;
+  text-align: center;
+  color: #bc105c;
+  border-bottom: #bc105c dotted 0.25rem;
+}
+
+.section {
+  background-color: #fff;
+  /* margin: 4rem 3.5rem 1.5rem 3.5rem; */
+  /* width: 100%;
+  height: 100%; */
+}
+
+.div-mario {
+  padding: 3rem 2rem 3rem 2rem;
+  /* text-align: justify; */
+  /* justify-content: space-around; */
+  /* width: 100%;
+  height: 100%; */
+}
+
+.img-mario-1 {
+  border: #bc105c solid 3px;
+  float: right;
+  width: 30%;
+  height: 30%;
+  margin-left: 1rem;
+}
+
+.img-mario-2 {
+  border: #bc105c solid 3px;
+  float: left;
+  height: 30%;
+  width: 30%;
+  margin-right: 1rem;
+}
+
+.div-personaje {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  padding: 3rem 2rem 3rem 2rem;
+  /* text-align: justify; */
+  /* display: flex; */
+}
+
+.img-mario-3 {
+  border: #bc105c solid 3px;
+  height: 100%;
+  width: 100%;
+}
+
+
+section {
+  background-color: #bc105c;
+  margin: 4rem 3.5rem 1.5rem 3.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 0.25rem;
+}
+
+h4 {
+  background-color: #bc105c;
+  text-align: center;
+  margin-left: 3.5rem;
+  margin-right: 3.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-radius: 0.25rem;
+}
+
+body {
+  background-color: #e11364;
+}

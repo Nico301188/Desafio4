@@ -1,0 +1,72 @@
+html {
+    font-size: 16px;
+    color: #fff;
+}
+
+body {
+    background-image: url("../images/neon-game-controllers-joysticks-console-260nw-1950662287.jpg");
+}
+
+h1 {
+    font-size: 6rem;
+    -webkit-text-stroke: 0.15rem black;
+    text-align: center;
+    border-bottom: solid #fff;
+    margin: 0;
+}
+h2{
+    text-align: end;
+    font-size: 3rem;
+    padding-right: 5rem;
+    margin:0 0 2rem 0;
+}
+h3{
+    font-size: 2rem;
+    margin: 2rem 0 0 0;
+}
+h4{
+    text-align: end;
+    font-size: 1.2rem;
+    -webkit-text-stroke: 0.05rem black;
+}
+p{
+    font-size: 1.5rem;
+}
+
+.div-imagen{
+text-align: center;
+}
+img{
+    border-radius: 50%;
+    width: 50%;
+    border: 0.5rem double #fff;
+}
+img:hover{
+    border-radius:0;
+    width: 60%;
+}
+.div-button {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+a:hover{
+    background-color: #551A8B;
+    color: #fff;
+    font-size: 2rem;
+    text-decoration: none;
+    width: 100vw;
+    border-radius:0;
+    text-align: center;
+    border: outset gray 0.5rem;
+}
+a{
+    background-color: #551A8B;
+    color: #fff;
+    font-size: 2rem;
+    text-decoration: none;
+    width: 20vw;
+    border-radius: 2rem;
+    text-align: center;
+    border: double gray 0.5rem;
+}
