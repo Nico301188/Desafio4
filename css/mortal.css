@@ -37,16 +37,16 @@ p {
     border: #bc105c solid 3px;
     float: right;
     margin-left: 1rem;
-    width: 40%;
-    height: 40%;
+    width: 30%;
+    height: 30%;
 }
 
 .img-mk11-2 {
     border: #bc105c solid 3px;
     float: left;
     margin-right: 1rem;
-    height: 40%;
-    width: 40%;
+    height: 30%;
+    width: 30%;
 }
 
 .div-personaje {
